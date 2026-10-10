@@ -1,2 +1,2 @@
 # GitLearn
-practice of GIT Examples
+Practice of GIT Examples
